@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Form-To-Google-Sheets/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/React-Form-To-Google-Sheets/static/js/main.872d4425.chunk.js",
+    "main.js.map": "/React-Form-To-Google-Sheets/static/js/main.872d4425.chunk.js.map",
+    "runtime-main.js": "/React-Form-To-Google-Sheets/static/js/runtime-main.7021eaf8.js",
+    "runtime-main.js.map": "/React-Form-To-Google-Sheets/static/js/runtime-main.7021eaf8.js.map",
+    "static/js/2.000a7bd9.chunk.js": "/React-Form-To-Google-Sheets/static/js/2.000a7bd9.chunk.js",
+    "static/js/2.000a7bd9.chunk.js.map": "/React-Form-To-Google-Sheets/static/js/2.000a7bd9.chunk.js.map",
+    "static/js/3.add79b42.chunk.js": "/React-Form-To-Google-Sheets/static/js/3.add79b42.chunk.js",
+    "static/js/3.add79b42.chunk.js.map": "/React-Form-To-Google-Sheets/static/js/3.add79b42.chunk.js.map",
+    "index.html": "/React-Form-To-Google-Sheets/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/React-Form-To-Google-Sheets/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.000a7bd9.chunk.js.LICENSE.txt": "/React-Form-To-Google-Sheets/static/js/2.000a7bd9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/React-Form-To-Google-Sheets/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7021eaf8.js",
+    "static/js/2.000a7bd9.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.872d4425.chunk.js"
+  ]
+}
